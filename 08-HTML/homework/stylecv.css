@@ -1,0 +1,38 @@
+H1 {color:blue;}
+
+img {width:150px;  display:block; margin: auto; }
+
+#thirdDiv {heigth:600; width:500; background:#33CAFF; padding:50px; border:30; border-color: red; }
+
+#spanid { font-size:18px; margin:50px; }
+#izq {text-align:left;}
+
+body {
+
+	background-image: url("https://t3.ftcdn.net/jpg/01/09/81/02/240_F_109810224_B2Jmt5FCLjcySrE7K1VwgOnIxPQ6XHQZ.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#contenedor{
+	 width: 800px;
+  margin: 0 auto;
+text-align: center;
+
+.vinieta1{
+list-style-image: url('https://img1.freepng.es/20180203/lqq/kisspng-line-triangle-point-area-green-tick-png-picture-5a756f7938df50.485794141517645689233.jpg');
+}
+.vinieta2{
+list-style-image: url('list2.png');
+}
+.vinieta3{
+list-style-image: url('list3.png');
+}
+.vinieta4{
+list-style-image: url('list4.png');
+}
+
+.vinieta5{
+list-style-image: url('list.png');
+}
